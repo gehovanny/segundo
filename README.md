@@ -1,2 +1,7 @@
 #segundo 
-##print ("yo")
+
+## poco a poco como te dije 
+
+paso a paso
+
+
